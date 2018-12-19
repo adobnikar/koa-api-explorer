@@ -1,0 +1,40 @@
+{
+  "name": "koa-api-explorer",
+  "version": "0.0.1",
+  "description": "Generate OpenAPI 3 documentation from JSDoc comments.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adobnikar/koa-api-explorer.git"
+  },
+  "keywords": [
+    "jsdocs",
+    "generate",
+    "generator",
+    "docs",
+    "documentation",
+    "koa",
+    "api",
+    "koa router",
+    "koa-router",
+    "swagger",
+    "swagger ui",
+    "open api",
+    "open api 3",
+    "openapi 3",
+    "comments",
+    "yaml"
+  ],
+  "author": "Andraž Dobnikar <andraz.dobnikar@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adobnikar/koa-api-explorer/issues"
+  },
+  "homepage": "https://github.com/adobnikar/koa-api-explorer#readme"
+}
